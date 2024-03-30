@@ -2,7 +2,7 @@
 
 
 
-Used technologies:
+[Used technologies:
 
 - .Net / C#
   - UI Frameworks: WPF, WinForms
@@ -26,4 +26,4 @@ The projects I have posted in my portfolio are projects developed for one compan
 - Participating in EMC tests and repairs, ensuring their protection against damage.
 - Creating startup procedures useful in the production process.
 
-Since the situation in the company required me to work most of the time as an independent programmer, some of these projects were written entirely by me.
+Since the situation in the company required me to work most of the time as an independent programmer, some of these projects were written entirely by me.](https://damiankjkujawski.github.io/)
