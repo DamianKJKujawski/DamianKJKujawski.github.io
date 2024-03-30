@@ -1,6 +1,6 @@
 ## [Check out my portfolio website here!](https://damiankjkujawski.github.io/)
 
-&lt;!-- Technologies --&gt;
+
 
 Used technologies:
 
