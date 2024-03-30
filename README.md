@@ -4,8 +4,6 @@
 
 Used technologies:
 
-While working in the previous company, I developed projects based on the following technologies:
-
 - .Net / C#
   - UI Frameworks: WPF, WinForms
 - C#
@@ -20,9 +18,7 @@ While working in the previous company, I developed projects based on the followi
 - PASCAL
   - Delphi Framework: VCL
 
-![Technologies Image](about-me/media/technologies.jpg)
-
-The projects I have posted here are projects developed for one company. As an electronics engineer, I had the opportunity to participate in the entire design process of some projects:
+The projects I have posted in my portfolio are projects developed for one company. As an electronics engineer, I had the opportunity to participate in the entire design process of some projects:
 
 - By using tools provided by IC manufacturers, we were able to minimize errors before BOM implementation and PCB ordering.
 - Conducting preliminary circuit tests and writing simple startup programs.
@@ -31,4 +27,3 @@ The projects I have posted here are projects developed for one company. As an el
 - Creating startup procedures useful in the production process.
 
 Since the situation in the company required me to work most of the time as an independent programmer, some of these projects were written entirely by me.
-
