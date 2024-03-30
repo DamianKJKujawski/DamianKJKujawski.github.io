@@ -1,4 +1,4 @@
-[Check out my portfolio here](https://damiankjkujawski.github.io/)
+## [Check out my portfolio here](https://damiankjkujawski.github.io/)
 
 ## &lt;!-- Technologies --&gt;
 
