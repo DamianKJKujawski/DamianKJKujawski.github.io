@@ -2,7 +2,6 @@
 
 
 
-[
 ```
 Used technologies:
 
@@ -30,4 +29,4 @@ The projects I have posted in my portfolio are projects developed for one compan
 
 Since the situation in the company required me to work most of the time as an independent programmer, some of these projects were written entirely by me.
 ```
-](https://damiankjkujawski.github.io/)
+(https://damiankjkujawski.github.io/)
