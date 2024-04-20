@@ -1,3 +1,14 @@
+/*==================== FLOATING ICON =====================*/
+
+document.addEventListener("DOMContentLoaded", function() {
+	
+    const _floatingIcon = document.getElementById("floatingIcon");
+
+    window.addEventListener("scroll", function() {
+        // Code to handle scrolling if needed
+    });
+});
+
 /*==================== SHOW SIDE MENU ====================*/
 
 	const showMenu = (toggleId, navId) =>

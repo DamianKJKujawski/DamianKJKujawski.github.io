@@ -16,9 +16,10 @@
   --header-color: hsl(var(--theme-color), 0%, 100%);
   
   --body-font: "Poppins", sans-serif;
-  --big-font-size: 2rem;
-  --h2-font-size: 2.2rem;
-  --normal-font-size: .93rem;
+  --body-font-weight: 600;
+  --big-font-size: 2.6rem;
+  --h2-font-size: 2.8rem;
+  --normal-font-size: .92rem;
   --smaller-font-size: .7rem;
   
   --z-back: -1;
@@ -69,6 +70,7 @@ html {
 body {
   margin: var(--header-height) 0 0 0;
   font-family: var(--body-font);
+  font-weight: var(--body-font-weight);
   font-size: var(--normal-font-size);
   color: var(--second-color);
 }
@@ -106,6 +108,25 @@ img {
   color: #ff0000; /* Change color if needed */
   font-weight: bold; /* Optionally adjust font weight */
   margin-right: 0.5rem; /* Adjust spacing between bullet point and text */
+}
+
+/* == FLOATING ICON === */
+
+.floating-icon 
+{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    z-index: 1000;
+    cursor: pointer;
+}
+
+#iconImage 
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 }
 
 
@@ -329,6 +350,8 @@ img {
 
 
 
+
+
 /* ===== PROJECTS VISUALIZATION =====*/
 
 .projects_container 
@@ -336,6 +359,10 @@ img {
 	row-gap: 2rem;
 	margin-bottom: 2rem;
 }
+
+
+
+/* ===== PROJECTS IMAGES =====*/
 
 .projects_img 
 {
@@ -401,6 +428,16 @@ img {
 }
 
 
+
+/* =================================*/
+
+.technologies_container 
+{
+	display: grid;
+	grid-template-columns: repeat(11, 1fr);
+	column-gap: 0.9rem;
+	padding-top: 1.0rem;
+}
 
 /* =================================*/
 
